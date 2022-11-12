@@ -3,16 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+## Anna Bolla
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Something of a CV goes here.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am 21 years old, studying Hungarian and English literature and grammar at the [Eötvös Lóránd University](https://elte.hu) in Budapest. I'd like to be an English and Hungarian language teacher when I finish my Master's degree. I love travelling, photography, good music.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![Anna](/pics/anna.png)
 
 
-[jekyll-organization]: https://github.com/jekyll
+# Luca
+
+Ha egyben akarjátok leadni akkor ide is kell valami
+
+
+
