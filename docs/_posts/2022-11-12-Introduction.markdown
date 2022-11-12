@@ -11,7 +11,7 @@ Two friends from Hungary - Budapest visiting Helsinki University from the ELTE U
 from Budapest
 
 
-![BudapestbyNight](/docs/pics/BudapestbyNight.png)
+![BudapestbyNight](/pics/BudapestbyNight.png)
 
 
 for the 2022 Autum semester
