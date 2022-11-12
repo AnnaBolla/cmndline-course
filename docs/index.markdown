@@ -4,6 +4,4 @@
 
 layout: home
 ---
-### ide johet altalanos szoveg
 
-> ezek a szovegek markup kodokkal mukodnek
