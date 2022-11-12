@@ -7,6 +7,7 @@ categories: jekyll update
 
 
 #Courses 
+
 | Course Name                           | Credits    | Period    |
 
 | --------------------------------------| :---------:| ---------:|
@@ -22,3 +23,13 @@ categories: jekyll update
 | Language Variation and Change         | 5          | 1-2       |
 
 | English in the Nordic Countries       | 5          | 1-2       |
+
+
+| Course Name                           | Credits | Period  |
+| ------------------------------------- |:-------:| -------:|
+| Liteature Survay I.                   | 5       | 1-2     |
+| Command-line for Linguist             | 5       | 1       |
+| Finnish Beginners' Class              | 3       | 1-2     |
+| Finnish Schools and Subject Education | 5       | 2       |
+| Language Variation and Change         | 5       | 1-2     |
+| English in the Nordic countries       | 5       | 1-2     |
