@@ -7,7 +7,25 @@ categories: jekyll update
 ### ide jon a week1 anyaga, kicsit megformazva :-)
 
 1. Week 1
-Ide johet a week 1
+Introduction to Comman Line environments. We have learnt how to download contents, make directory, change directory, create and remove files and copy, rename files.
 
 2. Week 2
-Ide johet a week2
+Navigating a Unix system. We have learnt to copy, move and delete a directory, how to compress files using gzip and tar.
+
+3. Week 3
+Basic corpus processing. We have learnt UTF8 encoding, working on texts eg how to transform all upper case letters into lower case. 
+
+4. Week 4
+Advanced corpus processing. We have learnt how to delete a file using the sed command, generate a frequency list/ sentence per line format.
+
+5. Week 5
+Scripting and configuration files. We have learnt how to write a simple script, the using of the echo and export command.
+
+6. Week 6
+Installing and running programmes. This week was the hardest for us, but we have learnt how to use the sudo command, install a software using the apt-get or brew command, and how to run and write a makefile.
+
+7. Week 7
+Version control. We have learnt how to set up Github and how it works. 
+
+8. Week 8
+Final assignment. We have learnt how to be very angry at our own computer and how to use what we have learnt in the period, but we realised that together we can beat everything. 
