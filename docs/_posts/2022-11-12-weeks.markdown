@@ -4,7 +4,7 @@ title:  "Course weeks"
 date:   2022-11-12 14:04:18 +0100
 categories: jekyll update
 ---
-### ide jon a week1 anyaga, kicsit megformazva :-)
+### WHAT WE HAVE LEARNT! 
 
 1. Week 1
 Introduction to Comman Line environments. We have learnt how to download contents, make directory, change directory, create and remove files and copy, rename files.
