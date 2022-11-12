@@ -9,8 +9,8 @@ categories: jekyll update
 
 
 
-| Course Name                           | Credits | Period  |
-| ------------------------------------- |:-------:| -------:|
+| Course Name                           | Credits | Period  | Links   |
+| ------------------------------------- |:-------:| -------:| [I'm literature link](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2223-bdee0fd8-4ea2-4937-b10b-ebbf460be4ba/KIK-EN214/Literature_Survey_I_Lectures)
 | Liteature Survay I.                   | 5       | 1-2     |
 | Command-line for Linguist             | 5       | 1       |
 | Finnish Beginners' Class              | 3       | 1-2     |
