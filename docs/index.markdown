@@ -4,4 +4,6 @@
 
 layout: home
 ---
-![BudapestByNight](/docs/pics/BudapestbyNight.jpg)
+### ide johet altalanos szoveg
+
+> ezek a szovegek markup kodokkal mukodnek
