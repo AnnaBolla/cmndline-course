@@ -6,8 +6,15 @@ categories: jekyll update
 ---
 
 
-Ide kell beletenni a latogatott kurzusokat egy tablazatba
-
+#Courses 
+| Course Name                           | Credits    | Period    | 
+| --------------------------------------| :---------:| ---------:| 
+| Literature Survey I.                  | 5          | 1-2       | 
+| Command-line for Linguists            | 5          | 1         | 
+| Finnish beginners' Class              | 3          | 1-2       | 
+| Finnish Schools and Subject Education | 5          | 2         | 
+| Language Variation and Change         | 5          | 1-2       | 
+| English in the Nordic Countries       | 5          | 1-2       | 
 
 
 
