@@ -6,12 +6,12 @@ categories: jekyll update
 ---
 Two friends from Hungary - Budapest visiting Helsinki University from the ELTE University
 
-![ELTE](/pics/elte.png)
+![Elte](/pics/elte.png)
 
 from Budapest
 
 
-![BudapestbyNight](/pics/BudapestbyNight.png)
+![BBN](/pics/BBN.png)
 
 
 for the 2022 Autum semester
